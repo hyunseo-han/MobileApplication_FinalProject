@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MobileApplication_FinalProject</string>
+    <string name="kobis_url">https://api.odcloud.kr/api/</string>
+    <string name="kobis_key">NBXmlC7ey7amJizGO6lNzaTFRQg5H6D4kzrDmbDdDrAxJ5ZaRuR/G8G7rsGOrWmI2D2k7NNPSaCC2I7o18SwbA==</string>
+</resources>

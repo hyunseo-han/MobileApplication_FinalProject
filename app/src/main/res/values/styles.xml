@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MobileApplication_FinalProject" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#b9dec0</item>
+        <item name="colorPrimaryDark">#e0f2dc</item>
+<!--        <item name="android:background">#fffffb</item>-->
+    </style>
+    <style name="TransparentFragmentStyle">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+</resources>
